@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**leandr017/Leandr017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... a fabric 
 - 🌱 I’m currently learning ... Ecommerce
 - 👨‍🎓 I´m currently studu ... Desarrollo de Software
